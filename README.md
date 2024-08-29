@@ -11,6 +11,8 @@
 
 Welcome to my Portfolio Website! This project showcases my skills, experiences, and projects developed using HTML and CSS. It serves as a digital resume where potential employers and clients can explore my work and learn more about my design philosophy and coding abilities.
 
+![ScreenShot of Output ](https://github.com/Prayanshuchourasia-01/CODTECH-task-2/blob/f7189796415304ef8213152415024da79d0e7516/Screenshot%202024-08-29%20200456.png)
+
 ### Features
 
 - **Responsive Design**: The website is designed to be functional on both desktop and mobile devices, ensuring a great user experience regardless of screen size.
